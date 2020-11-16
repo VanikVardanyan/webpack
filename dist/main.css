@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Robot';
+  src: url(03523cf578d69fa923226ff457b92d90.ttf) format('truetype');
+}
+
+body {
+  font-family: 'Robot', 'sens-serif';
+}
+
+.container {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  background-image: url(7f27d890019d179fd7663b3a99243ecc.jpg);
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.code {
+  color: tomato;
+}
+
+.box {
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+  border: 1px solid #ccc;
+  padding-bottom: 50px;
+}
+.box h2 {
+  text-align: center;
+  color: darkblue;
+}
+
+.card {
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+  border: 1px solid #ccc;
+  padding-bottom: 50px; }
+  .card h2 {
+    text-align: center;
+    color: green; }
+
+
+/*# sourceMappingURL=main.css.map*/

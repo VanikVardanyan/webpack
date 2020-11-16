@@ -1,0 +1,28 @@
+@import '~normalize.css';
+@import 'robot.css';
+
+body {
+  font-family: 'Robot', 'sens-serif';
+}
+
+.container {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  background-image: url('../assets/logo.jpg');
+  background-size: cover;
+  margin: 0 auto;
+}
+
+.code {
+  color: tomato;
+}
